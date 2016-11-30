@@ -1,5 +1,8 @@
 package br.univel.dto;
-
+/**
+ * Classe com os atributos necessários para a autenticação do envio
+ * 
+ */
 import java.io.Serializable;
 
 public class Envio implements Serializable {

@@ -1,5 +1,8 @@
 package br.univel.dto;
-
+/**
+ * Classe com infomações para o retorno/resposta 
+ * 
+ */
 import java.io.Serializable;
 
 public class Recebimento implements Serializable {

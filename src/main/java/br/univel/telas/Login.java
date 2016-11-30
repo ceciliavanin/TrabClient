@@ -49,9 +49,6 @@ public class Login extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
 	public Login() {
 		setTitle("Fa\u00E7a seu login");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
